@@ -11,6 +11,7 @@
     # and I have not provided this code to any other student.
 
 def main():
+    # This function prints my initials as large block letters
 
         print()
         print("...AEL")
